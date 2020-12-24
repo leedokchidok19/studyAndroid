@@ -9,13 +9,13 @@
    [깃허브](https://github.com/g82/Anstagram)
 ---
 + 목차
-  1. TableActivity
-  1. IrenGlide
-  1. fragment
-  1. RecyclerView
-  1. AsyncTask
-  1. ObjectAndCollections
-  1. Anstagram
+1. TableActivity
+1. IrenGlide
+1. fragment
+1. RecyclerView
+1. AsyncTask
+1. ObjectAndCollections
+1. Anstagram
 ---
-개발화면
-![Anstagram](Anstagram.png)
+개발화면   
+![Anstagram 개발 화면](Anstagram.PNG)
